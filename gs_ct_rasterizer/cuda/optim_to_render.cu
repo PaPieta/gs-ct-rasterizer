@@ -1,8 +1,8 @@
 #include "optim_to_render.cuh"
 #include "optim_to_render_helpers.cuh"
 #include <cooperative_groups.h>
-#include "../third_party/glm/glm/glm.hpp"
-#include "../third_party/glm/glm/gtc/type_ptr.hpp"
+#include <glm/glm.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 namespace cg = cooperative_groups;
 
