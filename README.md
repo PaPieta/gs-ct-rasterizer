@@ -3,7 +3,7 @@
 Fast and scalable implementation of the Gaussian Splatting rasterizer for CT projections. Implemented as a part of the paper:
 > FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting
 
-### [Main Repository](https://github.com/PaPieta/fact-gs) | [Paper](TBA) | [Project Page](TBA)
+### [Main Repository](https://github.com/PaPieta/fact-gs) | [Paper](TBA) | [Project Page](https://papieta.github.io/fact-gs/)
 
 #### Related repositories (applied in the paper):
 [Fast Gaussian Splatting Voxelizer](https://github.com/PaPieta/gs-voxelizer) | [Fused SSIM](https://github.com/rahul-goel/fused-ssim) (2D and 3D) | [Fused 3D TV](https://github.com/PaPieta/fused-3D-tv)
