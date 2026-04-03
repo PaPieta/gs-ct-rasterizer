@@ -3,7 +3,7 @@
 Fast and scalable implementation of the Gaussian Splatting rasterizer for CT projections. Implemented as a part of the paper:
 > FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting
 
-### [Main Repository](https://github.com/PaPieta/fact-gs) | [Paper](TBA) | [Project Page](https://papieta.github.io/fact-gs/)
+### [Main Repository](https://github.com/PaPieta/fact-gs) | [Paper](https://arxiv.org/pdf/2604.01844) | [Project Page](https://papieta.github.io/fact-gs/)
 
 #### Related repositories (applied in the paper):
 [Fast Gaussian Splatting Voxelizer](https://github.com/PaPieta/gs-voxelizer) | [Fused SSIM](https://github.com/rahul-goel/fused-ssim) (2D and 3D) | [Fused 3D TV](https://github.com/PaPieta/fused-3D-tv)
@@ -116,6 +116,20 @@ Baseline is sourced from [r2_gaussian](https://github.com/Ruyi-Zha/r2_gaussian/t
 
 <img src="./test/test_out_speed/speed_vs_gaussians.png" width="45%"> <img src="./test/test_out_speed/speed_vs_image.png" width="45%">
 
+## Citation
+
+If this repository helped in your research, please consider citing our work:
+```
+@misc{pieta2026factgsfastscalablect,
+      title={FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting}, 
+      author={Pawel Tomasz Pieta and Rasmus Juul Pedersen and Sina Borgi and Jakob Sauer Jørgensen and Jens Wenzel Andreasen and Vedrana Andersen Dahl},
+      year={2026},
+      eprint={2604.01844},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.01844}, 
+}
+```
 
 ## Acknowledgements
 
